@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/koolkats/static/css/main.95b2e724.css",
+    "main.js": "/koolkats/static/js/main.47898ef5.js",
+    "static/js/787.1a99825b.chunk.js": "/koolkats/static/js/787.1a99825b.chunk.js",
+    "index.html": "/koolkats/index.html",
+    "main.95b2e724.css.map": "/koolkats/static/css/main.95b2e724.css.map",
+    "main.47898ef5.js.map": "/koolkats/static/js/main.47898ef5.js.map",
+    "787.1a99825b.chunk.js.map": "/koolkats/static/js/787.1a99825b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95b2e724.css",
+    "static/js/main.47898ef5.js"
+  ]
+}
